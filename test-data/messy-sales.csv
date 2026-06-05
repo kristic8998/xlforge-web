@@ -1,0 +1,201 @@
+﻿Order ID,Order Date,Region,Product,Salesperson,Amount
+ORD-1125,2026-03-03,NORTH,Gizmo X,Dev Patel,2969.38
+ORD-1020,3/4/2026,east, WIDGET A,DEV PATEL,165.09
+ORD-1034,Apr 28 2026,north,widget a,alice chen,2022.19
+ORD-1145,5/5/2026,East  ,GADGET PRO,Alice Chen,284.24
+ORD-1120,2026-02-10,WEST,Gizmo X,BOB SMITH,1425.55
+ORD-1083,2026-05-15,WEST,GADGET PRO,DEV PATEL,1355.24
+ORD-1001,Jan 22 2026,EAST,widget a,Emma Jones,2111.94
+ORD-1124,May 21 2026,north, WIDGET A,BOB SMITH,3921.81
+ORD-1025,Jan 3 2026,East  ,widget a,emma jones,3711.13
+ORD-1106,2026-04-23,east, WIDGET A,emma jones,4639.45
+ORD-1068,5/7/2026,north,  gadget  pro,alice chen,2567.63
+ORD-1088,2026-04-14,  south,  gadget  pro,Dev Patel,4357.5
+ORD-1167,Apr 9 2026,north,GADGET PRO, Carla Diaz,3300.89
+ORD-1002,2026-01-03,  south,Gizmo X,Emma Jones,273.39
+ORD-1095,2026-04-11,East  ,Gadget Pro,carla diaz,3689.72
+ORD-1103,Mar 28 2026,west,widget a,Emma Jones,3789.25
+ORD-1154,2026-02-23,west,  gadget  pro,bob smith ,4130.46
+ORD-1024,3/27/2026,  south,Widget A,bob smith ,4232.74
+ORD-1178,4/26/2026,WEST,Gadget Pro,Alice Chen,2327.74
+ORD-1137,Jan 8 2026,west,gizmo x ,alice chen,4798.01
+ORD-1042,Jan 2 2026,East  ,Gizmo X,emma jones,882.06
+ORD-1049,2/17/2026,North ,Gadget Pro,Alice Chen,4238.61
+ORD-1039,2026-04-02,east,Widget A,Dev Patel,1383.19
+ORD-1116,5/11/2026,WEST,GADGET PRO, Carla Diaz,1575.8
+ORD-1172,Jan 20 2026,East  ,widget b,bob smith ,2972.85
+ORD-1011,2026-05-24,North ,GADGET PRO,Dev Patel,1405.26
+ORD-1036,2026-02-14,South,GADGET PRO,bob smith ,4216.36
+ORD-1065,Apr 22 2026,SOUTH,Widget A,Alice Chen,4228.23
+ORD-1182,Apr 1 2026,EAST,Gadget Pro,Emma Jones,1179.36
+ORD-1089,2026-05-23,west,  gadget  pro,DEV PATEL,177.42
+ORD-1075,2/17/2026,WEST, WIDGET A,Alice Chen,1469.61
+ORD-1105,3/1/2026,East  ,widget a,Dev Patel,4617.66
+ORD-1123,1/9/2026,NORTH,widget a,Dev Patel,2436.62
+ORD-1127,5/14/2026,west,gizmo x ,alice chen,2984.78
+ORD-1019,May 9 2026,north,widget a,emma jones,3641.58
+ORD-1097,5/2/2026,  south,widget a,alice chen,3657.18
+ORD-1045,5/3/2026, West,gizmo x ,Emma Jones,2580.94
+ORD-1073,2026-04-18,South,widget b,bob smith ,2148.98
+ORD-1022,2026-05-20,North ,Gadget Pro,BOB SMITH,2658.11
+ORD-1026,2/22/2026,EAST, WIDGET A, Carla Diaz,2603.68
+ORD-1111,3/11/2026,west,widget b,emma jones,197.2
+ORD-1021,2026-03-17,EAST,widget a, Carla Diaz,4063.76
+ORD-1142,3/9/2026,NORTH,  gadget  pro,emma jones,3985.91
+ORD-1046,Mar 7 2026,WEST,Gadget Pro,bob smith ,1385.11
+ORD-1168,2/3/2026,SOUTH,gizmo x , Carla Diaz,3121.06
+ORD-1112,2026-02-03,WEST,  gadget  pro,DEV PATEL,2731.57
+ORD-1034,Apr 28 2026,north,widget a,alice chen,2022.19
+ORD-1096,4/9/2026,South,widget a,DEV PATEL,240.13
+ORD-1039,2026-04-02,east,Widget A,Dev Patel,1383.19
+ORD-1050,2026-03-10,East  ,Gizmo X, Carla Diaz,2994.3
+ORD-1063,4/12/2026,  south,Widget B ,alice chen,3219.15
+ORD-1146,2026-05-26,WEST, WIDGET A, Carla Diaz,2711.4
+ORD-1178,4/26/2026,WEST,Gadget Pro,Alice Chen,2327.74
+ORD-1119,5/20/2026,NORTH,Widget B , Carla Diaz,1207.8
+ORD-1102,Feb 3 2026,WEST,Widget B ,Alice Chen,3391.95
+ORD-1069,May 22 2026,WEST,Widget B ,carla diaz,2155.53
+ORD-1122,1/19/2026,East  ,GADGET PRO,DEV PATEL,1734.28
+ORD-1140,4/11/2026, West,widget a,BOB SMITH,1683.59
+ORD-1030,Jan 23 2026,north,Widget B ,Alice Chen,4360.2
+ORD-1158,Feb 14 2026,North ,widget a,DEV PATEL,3784.09
+ORD-1072,4/22/2026, West, WIDGET A,Emma Jones,2796.34
+ORD-1181,3/19/2026, West,Gadget Pro,Alice Chen,3287.99
+ORD-1118,2026-02-07,WEST,GADGET PRO, Carla Diaz,3519.32
+ORD-1047,Feb 22 2026,South,GADGET PRO,carla diaz,4469.94
+ORD-1136,2026-01-20,east,Gadget Pro,Emma Jones,1314.21
+ORD-1086,2026-03-18,North , WIDGET A,bob smith ,1931.11
+ORD-1135,3/23/2026,South,Gizmo X,emma jones,2446.15
+ORD-1040,4/10/2026,WEST,Gizmo X,DEV PATEL,869.81
+ORD-1080,1/25/2026,  south, WIDGET A,emma jones,2310.16
+ORD-1161,Jan 8 2026, West,widget b,bob smith ,3622.46
+ORD-1109,2/25/2026,west,gizmo x ,Dev Patel,1714.24
+ORD-1117,Feb 4 2026,  south,Gadget Pro,Alice Chen,3604.4
+ORD-1043,2026-05-03,NORTH,gizmo x ,Alice Chen,3289.74
+ORD-1173,Mar 8 2026,  south,gizmo x , Carla Diaz,3301.6
+ORD-1133,2026-02-09,NORTH,Widget A,BOB SMITH,3835.72
+ORD-1057,2026-02-18,SOUTH,gizmo x ,emma jones,838.64
+ORD-1129,2026-02-08,EAST,widget a,BOB SMITH,162.44
+ORD-1128,2026-01-25, West,Widget B , Carla Diaz,3220.99
+ORD-1090,3/10/2026,east,Gizmo X,emma jones,3869.39
+ORD-1014,Mar 7 2026,East  ,  gadget  pro,DEV PATEL,814.35
+ORD-1099,2026-01-19,East  ,widget b,carla diaz,930.22
+ORD-1159,Mar 11 2026,WEST,  gadget  pro,Alice Chen,4110.71
+ORD-1098,2026-02-07,west, WIDGET A,bob smith ,736.93
+ORD-1126,May 8 2026,east,GADGET PRO,DEV PATEL,1532.69
+ORD-1130,Apr 23 2026,East  ,widget b,alice chen,1226.36
+ORD-1155,4/2/2026,WEST,GADGET PRO,Dev Patel,1945.27
+ORD-1160,5/13/2026, West,GADGET PRO,emma jones,316.93
+ORD-1076,2026-05-11,  south,widget b,bob smith ,3900.52
+ORD-1179,2026-01-05, West,  gadget  pro,emma jones,1850.85
+ORD-1099,2026-01-19,East  ,widget b,carla diaz,930.22
+ORD-1153,Mar 11 2026,EAST,  gadget  pro,DEV PATEL,4487.76
+ORD-1074,May 20 2026,SOUTH,GADGET PRO,DEV PATEL,2206.04
+ORD-1081,2026-05-08,East  , WIDGET A,DEV PATEL,3254.24
+ORD-1079,4/16/2026,  south, WIDGET A,alice chen,4300.87
+ORD-1035,2026-03-26,  south,Widget B ,bob smith ,2643.73
+ORD-1132,2026-05-22,east,widget a,emma jones,1195.36
+ORD-1106,2026-04-23,east, WIDGET A,emma jones,4639.45
+ORD-1018,2026-04-20,east,  gadget  pro,Emma Jones,4781.96
+ORD-1077,2026-02-01,  south,GADGET PRO,Emma Jones,4101.28
+ORD-1041,2026-03-07,west,Gizmo X,alice chen,3628.09
+ORD-1010,2/22/2026,WEST,widget a,Emma Jones,3102.65
+ORD-1009,1/13/2026,East  ,Gadget Pro,BOB SMITH,1871.34
+ORD-1056,5/23/2026,EAST,Widget A,Alice Chen,499.88
+ORD-1143,Jan 22 2026,East  ,  gadget  pro,alice chen,1022.26
+ORD-1167,Apr 9 2026,north,GADGET PRO, Carla Diaz,3300.89
+ORD-1137,Jan 8 2026,west,gizmo x ,alice chen,4798.01
+ORD-1087,2026-02-23,NORTH,  gadget  pro,Dev Patel,1688.6
+ORD-1174,2026-02-21, West,Widget A, Carla Diaz,3817.04
+ORD-1051,May 1 2026,EAST,widget b,Alice Chen,4516.02
+ORD-1108,5/9/2026,  south,widget a, Carla Diaz,4249.59
+ORD-1061,3/26/2026, West,Widget B , Carla Diaz,890.27
+ORD-1007,Apr 3 2026,South,gizmo x ,carla diaz,2834.69
+ORD-1184,1/2/2026,East  ,widget a,Alice Chen,1241.82
+ORD-1162,Apr 4 2026,WEST,widget a,DEV PATEL,923.6
+ORD-1058,2/2/2026,SOUTH,Widget A,carla diaz,1126.86
+ORD-1038,2026-01-25,North ,  gadget  pro,DEV PATEL,2388.32
+ORD-1066,Mar 6 2026,South,Widget A,Alice Chen,2924.06
+ORD-1125,2026-03-03,NORTH,Gizmo X,Dev Patel,2969.38
+ORD-1110,4/28/2026,North ,GADGET PRO,bob smith ,1799.94
+ORD-1177,Mar 17 2026,South, WIDGET A, Carla Diaz,4400.33
+ORD-1100,May 24 2026,NORTH, WIDGET A, Carla Diaz,652.66
+ORD-1093,2026-05-18,east,gizmo x ,Emma Jones,3232.95
+ORD-1170,2026-04-04,east,gizmo x ,carla diaz,2822.88
+ORD-1078,1/15/2026, West,gizmo x ,bob smith ,3490.31
+ORD-1131,3/23/2026,NORTH,Widget B , Carla Diaz,3813.4
+ORD-1147,2026-05-14,  south,widget a,DEV PATEL,4553.83
+ORD-1149,2026-04-16,East  ,Gizmo X,BOB SMITH,1933.67
+ORD-1115,Mar 16 2026,EAST,Gadget Pro,Dev Patel,4784.34
+ORD-1027,2026-05-14,EAST,Widget B , Carla Diaz,2005.31
+ORD-1094,1/21/2026,North ,GADGET PRO,BOB SMITH,383.82
+ORD-1114,2026-01-10,east,Widget B , Carla Diaz,3237.41
+ORD-1121,1/18/2026,WEST, WIDGET A,DEV PATEL,627.03
+ORD-1016,4/19/2026,SOUTH,Widget B ,BOB SMITH,2519.3
+ORD-1029,Mar 1 2026,EAST,Widget B ,Emma Jones,1174.01
+ORD-1134,May 24 2026,South,GADGET PRO,Alice Chen,2329.45
+ORD-1107,Mar 20 2026,East  ,GADGET PRO,Dev Patel,3989.67
+ORD-1166,Feb 16 2026,North ,Widget B ,DEV PATEL,3116.26
+ORD-1013,3/13/2026,NORTH,Widget B ,Emma Jones,4225.11
+ORD-1067,3/24/2026,east,gizmo x ,emma jones,687.75
+ORD-1148,Feb 16 2026,South,Gizmo X, Carla Diaz,2082.03
+ORD-1004,2026-05-09,North ,  gadget  pro,carla diaz,1442.1
+ORD-1082,5/20/2026,East  ,gizmo x ,emma jones,2134.34
+ORD-1171,Mar 1 2026,east,widget b,alice chen,2781.57
+ORD-1183,1/21/2026,WEST,widget b,Dev Patel,692.54
+ORD-1003,Feb 23 2026,WEST,Gizmo X,Dev Patel,1175.05
+ORD-1151,Apr 11 2026,South,Widget A, Carla Diaz,3526.14
+ORD-1006,3/20/2026,north,GADGET PRO,emma jones,730.44
+ORD-1028,Mar 15 2026,East  ,widget a,bob smith ,1194.84
+ORD-1044,2026-02-13,west,Widget B ,Emma Jones,2914.51
+ORD-1064,4/11/2026,NORTH,widget b,carla diaz,3132.89
+ORD-1138,2026-03-19,North ,GADGET PRO,emma jones,3179.52
+ORD-1033,2026-04-07,NORTH,  gadget  pro,carla diaz,2119.64
+ORD-1156,2026-02-16,North ,Gizmo X,Emma Jones,1693.78
+ORD-1180,4/1/2026,EAST,widget a,DEV PATEL,1863.92
+ORD-1000,Jan 1 2026,South,Widget B ,bob smith ,798.85
+ORD-1171,Mar 1 2026,east,widget b,alice chen,2781.57
+ORD-1037,Jan 15 2026,NORTH,Widget A,emma jones,4037.53
+ORD-1084,Feb 27 2026,South,Gizmo X,DEV PATEL,3064.38
+ORD-1059,2026-02-22,SOUTH,Gizmo X,Dev Patel,4678.34
+ORD-1107,Mar 20 2026,East  ,GADGET PRO,Dev Patel,3989.67
+ORD-1150,May 17 2026,North ,widget a, Carla Diaz,3742.94
+ORD-1053,May 7 2026,SOUTH,Widget B , Carla Diaz,2500.15
+ORD-1141,Apr 10 2026,east,Gizmo X,alice chen,2264.94
+ORD-1017,2026-01-25,NORTH, WIDGET A,BOB SMITH,3833.17
+ORD-1052,2026-02-09,NORTH,Gizmo X,BOB SMITH,1416.42
+ORD-1144,3/20/2026, West,GADGET PRO,alice chen,1096.55
+ORD-1032,Feb 24 2026,west,GADGET PRO,bob smith ,3798.48
+ORD-1062,2026-01-13,East  ,Widget B ,bob smith ,3947.13
+ORD-1085,2026-03-15,WEST,widget b,bob smith ,1413.48
+ORD-1012,May 8 2026,SOUTH,Widget A,bob smith ,3971.38
+ORD-1005,2/25/2026,NORTH,widget a,Dev Patel,599.73
+ORD-1152,May 19 2026,East  , WIDGET A,DEV PATEL,2654.4
+ORD-1163,2026-03-01,SOUTH,Widget A, Carla Diaz,1816.85
+ORD-1164,2026-04-05,EAST,  gadget  pro,Emma Jones,3320.37
+ORD-1054,2026-03-28,NORTH,  gadget  pro, Carla Diaz,355.0
+ORD-1169,4/23/2026,East  ,widget b,bob smith ,4797.09
+ORD-1023,May 1 2026,SOUTH,GADGET PRO,alice chen,670.18
+ORD-1116,5/11/2026,WEST,GADGET PRO, Carla Diaz,1575.8
+ORD-1031,Mar 3 2026,  south,widget b,DEV PATEL,1146.2
+ORD-1048,1/1/2026,west,gizmo x ,Alice Chen,490.66
+ORD-1070,3/20/2026, West,widget a, Carla Diaz,2508.12
+ORD-1101,Jan 10 2026, West,  gadget  pro,Dev Patel,4527.84
+ORD-1015,Feb 8 2026,EAST,Gizmo X, Carla Diaz,3623.61
+ORD-1091,2026-02-16,South,  gadget  pro,DEV PATEL,284.97
+ORD-1165,2026-02-06,NORTH,gizmo x ,Dev Patel,3031.65
+ORD-1139,Mar 6 2026,east,GADGET PRO,Alice Chen,2335.55
+ORD-1150,May 17 2026,North ,widget a, Carla Diaz,3742.94
+ORD-1175,1/19/2026,WEST, WIDGET A,Alice Chen,4379.77
+ORD-1025,Jan 3 2026,East  ,widget a,emma jones,3711.13
+ORD-1092,Mar 22 2026,east, WIDGET A,DEV PATEL,4425.87
+ORD-1060,2026-02-08,North ,  gadget  pro,alice chen,984.03
+ORD-1138,2026-03-19,North ,GADGET PRO,emma jones,3179.52
+ORD-1113,2/23/2026, West,GADGET PRO,DEV PATEL,3837.14
+ORD-1055,2026-03-25, West,widget b,BOB SMITH,3596.72
+ORD-1094,1/21/2026,North ,GADGET PRO,BOB SMITH,383.82
+ORD-1176,3/24/2026,North ,Widget B ,BOB SMITH,3807.28
+ORD-1008,Jan 2 2026,  south,widget b,Alice Chen,4127.23
+ORD-1071,4/11/2026,WEST,widget b,emma jones,741.89
+ORD-1104,3/18/2026, West,Gadget Pro,Alice Chen,2502.72
+ORD-1157,1/28/2026,NORTH,Gizmo X,DEV PATEL,221.37
